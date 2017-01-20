@@ -40,5 +40,4 @@ You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/a
 
 ![Ghost version shield](https://img.shields.io/badge/Ghost version-0.11.3-brightgreen.svg)
 ![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
-![Downloads shield](https://img.shields.io/github/downloads/tenoku/boo/total.svg)
 ![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
