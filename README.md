@@ -13,7 +13,7 @@
 
 ![Boo theme demo on a smartphone in portrait orientation](http://i.imgur.com/U9SOmHZ.png)
 
-![Boo theme on smartphones and tablets](http://i.imgur.com/L2gWa6P.jpg)
+![Boo theme on smartphones and tablets](http://i.imgur.com/fHugkw5.png)
 
 ---
 
