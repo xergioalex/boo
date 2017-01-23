@@ -1,18 +1,28 @@
-![Boo theme logo](http://i.imgur.com/fbifvYJ.png)
+![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
 
-![Animated gif of Boo theme, home page on a desktop](http://i.imgur.com/0LYO26Q.gif)
+![Boo theme demo on a tablet](http://i.imgur.com/sTAXHdF.png)
+
+![Boo theme demo on a tablet showing the menu](http://i.imgur.com/wRrVgrL.png)
+
+![Boo theme demo on a tablet in portrait orientation](http://i.imgur.com/hMd3wd6.png)
+
+![Boo theme demo on a smartphone](http://i.imgur.com/g6SLM6X.png)
+
+![Boo theme demo on a smartphone showing the menu](http://i.imgur.com/Cj7rvMx.png)
+
+![Boo theme demo on a smartphone in portrait orientation](http://i.imgur.com/U9SOmHZ.png)
+
+![Boo theme on smartphones and tablets](http://i.imgur.com/L2gWa6P.jpg)
 
 ---
 
-## How it looks 👀
+![Animated gif of Boo theme, home page on a desktop](http://i.imgur.com/0LYO26Q.gif)
+---
 ![Animated fig showing the Boo theme on a desktop](http://i.imgur.com/r5lx0oE.gif)
 ---
 ![Animated fig showing the Boo theme on a desktop](http://i.imgur.com/7SqhEsT.gif)
-
 ---
-
-## Menu 📖
 ![Animated gif showing the menu of the Boo theme on a desktop](http://i.imgur.com/gMroOve.gif)
 ---
 ![Animated gif showing the menu of the Boo theme on a mobile device](http://i.imgur.com/ptNIwCP.gif)
