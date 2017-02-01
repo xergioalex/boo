@@ -1,5 +1,6 @@
-![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
+
+![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)
 
 ![Boo theme demo on a tablet](http://i.imgur.com/sTAXHdF.png)
 
