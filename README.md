@@ -31,7 +31,7 @@
 ---
 
 ## Installation 🚀
-1. Download the [latest version](https://github.com/tenoku/boo/archive/v0.11.0.zip) of Boo
+1. Download the [latest version](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
 3. Select, **General** from the navigation menu on the left of your admin area
 4. Scroll down to the **Themes** section and click on the green, **Upload a Theme** button
