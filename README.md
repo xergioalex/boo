@@ -49,6 +49,13 @@ You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/a
 
 ---
 
+If you like Boo, please consider supporting it by:
+
+- [Paying what you want for it ☕️](https://sellfy.com/p/Acjr)
+- Starring it 🌟
+
+---
+
 ![Ghost version shield](https://img.shields.io/badge/Ghost version-0.11.3-brightgreen.svg)
 ![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
 ![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
