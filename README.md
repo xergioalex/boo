@@ -59,6 +59,6 @@ If you like Boo, please consider supporting it by:
 
 ---
 
-![Ghost version shield](https://img.shields.io/badge/Ghost version-0.11.3-brightgreen.svg)
+![Ghost version shield](https://img.shields.io/badge/Ghost%20version-0.11.3-brightgreen.svg)
 ![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
 ![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
