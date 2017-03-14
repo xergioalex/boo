@@ -47,6 +47,9 @@ Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) 
 ### Have problems installing this theme?
 You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes)
 
+### Something looks wrong compared to the demo?
+Check for conflicting code in the code injection section of your admin area
+
 ---
 
 If you like Boo, please consider supporting it by:
