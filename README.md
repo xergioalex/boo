@@ -1,7 +1,10 @@
 ![Ghost version shield](https://img.shields.io/badge/Ghost%20version-0.11.3-brightgreen.svg)
 ![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
 ![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
---
+---
+
+[Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
+
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
 
 ![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)
@@ -42,11 +45,11 @@
 5. Choose the theme **zip file** you downloaded in step one.
 
 
-## Report issues 🐞
+## Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) to report it.
 
 
-## FAQ 
+## FAQ 💬
 ### Have problems installing this theme?
 You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes).
 
