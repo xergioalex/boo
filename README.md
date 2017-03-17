@@ -39,7 +39,7 @@
 
 ---
 
-## Installation 🚀
+# Installation 🚀
 1. Download the [latest version of Boo](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
 3. Select **General** from the navigation menu on the left of your admin area.
@@ -47,11 +47,11 @@
 5. Choose the theme **zip file** you downloaded in step one.
 
 
-## Bug reports 🐞
+# Bug reports 🐞
 Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) to report it.
 
 
-## FAQ 💬
+# FAQ 💬
 ### Have problems installing this theme?
 You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes).
 
@@ -60,14 +60,14 @@ You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/a
 Check for conflicting code in the code injection section of your admin area.
 
 
-## Show us your love ❤️
+# Show us your love ❤️
 If you like Boo, please consider supporting it by:
 
 - [Paying what you want for it ☕️](https://sellfy.com/p/Acjr)
 - Starring it 🌟
 
 
-## Looking beyond 🔭
+# Looking beyond 🔭
 Take [this quick 30 second survey](https://form.jotform.co/70745196071862) to help us build the **perfect theme** for your blog.
 
 ---
