@@ -1,3 +1,7 @@
+![Ghost version shield](https://img.shields.io/badge/Ghost%20version-0.11.3-brightgreen.svg)
+![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
+![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
+--
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
 
 ![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)
@@ -31,31 +35,35 @@
 ---
 
 ## Installation 🚀
-1. Download the [latest version](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
+1. Download the [latest version of Boo](https://github.com/tenoku/boo/releases) (Please consider [paying what you want for it ☕️](https://sellfy.com/p/Acjr))
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org))
-3. Select, **General** from the navigation menu on the left of your admin area
-4. Scroll down to the **Themes** section and click on the green, **Upload a Theme** button
+3. Select **General** from the navigation menu on the left of your admin area.
+4. Scroll down to the **Themes** section and click on the green **Upload a Theme** button.
+5. Choose the theme **zip file** you downloaded in step one.
 
----
 
 ## Report issues 🐞
-Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) to report it
+Found a bug? No problem, [click here](https://github.com/tenoku/boo/issues/new) to report it.
 
----
 
-## FAQ 🤔
+## FAQ 
 ### Have problems installing this theme?
-You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes)
+You can find more detailed instructions [here](https://help.ghost.org/hc/en-us/articles/223241628-Uploading-Themes).
+
 
 ### Something looks wrong compared to the demo?
-Check for conflicting code in the code injection section of your admin area
+Check for conflicting code in the code injection section of your admin area.
 
----
 
+## Show us your love ❤️
 If you like Boo, please consider supporting it by:
 
 - [Paying what you want for it ☕️](https://sellfy.com/p/Acjr)
 - Starring it 🌟
+
+
+## Looking beyond 🔭
+Take [this quick 30 second survey](https://form.jotform.co/70745196071862) to help us build the **perfect theme** for your blog.
 
 ---
 
