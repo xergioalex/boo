@@ -3,7 +3,9 @@
 ![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
 ---
 
-[Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
+[Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq-) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
+
+---
 
 > A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com/)
 
