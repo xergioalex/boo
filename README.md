@@ -1,5 +1,6 @@
+[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.tenoku.com/)
 [![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
-[![Ghost version shield](https://img.shields.io/badge/Ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
 [![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
@@ -74,8 +75,9 @@ Take this quick <a href="https://form.jotform.co/70745196071862">30 second surve
 
 ---
 
+[![Demo status](https://img.shields.io/badge/live%20demo-online-brightgreen.svg)](https://boo-demo.tenoku.com/)
 [![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
-[![Ghost version shield](https://img.shields.io/badge/Ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
 [![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
