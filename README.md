@@ -68,7 +68,7 @@ If you like Boo, please consider supporting it by:
 
 
 # Looking beyond 🔭
-Take [this quick 30 second survey](https://form.jotform.co/70745196071862) to help us build the **perfect theme** for your blog.
+Take this quick <a href="https://form.jotform.co/70745196071862">30 second survey</a> to help us build the **perfect theme** for you.
 
 ---
 
