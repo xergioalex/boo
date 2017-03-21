@@ -1,6 +1,8 @@
-![Ghost version shield](https://img.shields.io/badge/Ghost%20version-0.11.3-brightgreen.svg)
-![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
-![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
+[![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/Ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
+[![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
+[![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
 ---
 
 [Installation](https://github.com/tenoku/boo#installation-) • [FAQ](https://github.com/tenoku/boo#faq-) • [Bug reports](https://github.com/tenoku/boo#bug-reports-) • [Improvement survey](https://form.jotform.co/70745196071862)
@@ -64,7 +66,7 @@ Check for conflicting code in the code injection section of your admin area.
 If you like Boo, please consider supporting it by:
 
 - [Paying what you want for it ☕️](https://sellfy.com/p/Acjr)
-- Starring it 🌟
+- Starring it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
 
 
 # Looking beyond 🔭
@@ -72,6 +74,8 @@ Take this quick <a href="https://form.jotform.co/70745196071862">30 second surve
 
 ---
 
-![Ghost version shield](https://img.shields.io/badge/Ghost%20version-0.11.3-brightgreen.svg)
-![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)
-![Stars shield](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)
+[![Release shield](https://img.shields.io/github/release/tenoku/boo.svg)](https://github.com/tenoku/boo/releases)
+[![Ghost version shield](https://img.shields.io/badge/Ghost%20version->=%200.11.3-00BCD4.svg)](https://github.com/tenoku/boo/releases)
+[![GitHub issues](https://img.shields.io/github/issues/tenoku/boo.svg)](https://github.com/tenoku/boo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tenoku/boo.svg)](https://github.com/tenoku/boo/network)
+[![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
