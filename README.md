@@ -10,7 +10,7 @@
 
 ---
 
-> A beautiful, clean and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com)
+> A beautiful, clean, and responsive theme for Ghost. [Live Demo](http://boo-demo.tenoku.com)
 
 [![Boo theme logo](http://i.imgur.com/Fr0xlnV.png)](https://boo-demo.tenoku.com)
 
@@ -70,8 +70,15 @@ If you like Boo, please consider supporting it by:
 - Starring it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
 
 
-# Looking beyond 🔭
-Take this quick <a href="https://form.jotform.co/70745196071862">30 second survey</a> to help us build the **perfect theme** for you.
+# Partners 
+
+[![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
+
+**Boo** is tested using [**BrowserStack**](https://www.browserstack.com/), a service that lets you test your websites and web apps on 1100+ browsers and a range of physical Android and iOS mobile devices and tablets to ensure the highest quality.
+
+---
+
+Take this quick <a href="https://form.jotform.co/70745196071862">30-second survey</a> to help us improve this theme for you.
 
 ---
 
