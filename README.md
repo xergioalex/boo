@@ -70,7 +70,7 @@ If you like Boo, please consider supporting it by:
 - Starring it 🌟 [![GitHub stars](https://img.shields.io/github/stars/tenoku/boo.svg?style=social&label=Star)](https://github.com/tenoku/boo/stargazers)
 
 
-# Partners 
+# Partners 👊
 
 [![BrowserStack logo](http://i.imgur.com/bZu7EA8.png)](https://www.browserstack.com/)
 
