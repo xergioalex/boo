@@ -73,6 +73,21 @@
             $('.author-image').css('visibility', 'visible');
         });
 
+        // Magnific popup script
+        var blogImages = $('.content-magnific-popup img');
+        for (var i = 0; i < blogImages.length; i++) {
+            blogImages[i].setAttribute('href', blogImages[i].src);
+        }
+
+        // Magnific popup init
+        $('.content-magnific-popup img').magnificPopup({
+            type: 'image',
+            // other options
+            gallery:{
+                enabled:true
+            }
+        });
+
     });
 
     // Arctic Scroll by Paul Adam Davis
