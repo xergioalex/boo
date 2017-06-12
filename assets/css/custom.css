@@ -3,8 +3,15 @@
 	cursor: zoom-in;
 }
 
+.main-post-content pre {
+	padding: 0;
+}
+
 .main-post-content pre code {  
-    // word-wrap: normal;
-    // white-space: pre;
-    background-color: #F7FAFB !important;
+    padding: 1em;
+}
+
+.main-post-content pre code.nobreak  {  
+    word-wrap: normal;
+    white-space: pre;
 }
