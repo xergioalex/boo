@@ -1,4 +1,4 @@
-// Magnific popup styles
 .content-magnific-popup img {
-	cursor: pointer;
+	cursor: -webkit-zoom-in;
+	cursor: zoom-in;
 }
