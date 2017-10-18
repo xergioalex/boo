@@ -15,3 +15,11 @@
     word-wrap: normal;
     white-space: pre;
 }
+
+.main-post-content a {
+	color: #5ba4e5;	
+}
+
+.main-post-content a:visited {
+	color: #307abb;	
+}
